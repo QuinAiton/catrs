@@ -1,4 +1,4 @@
-// asyncBreeds.js
+// asyncBreeds
 const fs = require('fs');
 
 const breedDetailsFromFile = function (breed, callBack) {
